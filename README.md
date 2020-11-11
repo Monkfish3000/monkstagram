@@ -6,6 +6,6 @@ Instead of Instagram I am creating Monkstagram which will (probably) take the wo
 
 If you would like 'in' on the ground floor you can reach me at...
 
-linkedin/in/michael-sut
+linkedin.com/in/michael-sut
 
 
