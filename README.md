@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My name is Michael and I am a developer based in Barcelona.
 
-Things you may want to cover:
+Instead of Instagram I am creating Monkstagram which will (probably) take the world by storm.
 
-* Ruby version
+If you would like 'in' on the ground floor you can reach me at...
 
-* System dependencies
+linkedin/in/michael-sut
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
