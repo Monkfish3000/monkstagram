@@ -231,8 +231,6 @@ GEM
       mini_magick (>= 4.9.5, < 5)
       ruby-vips (>= 2.0.17, < 3)
     ipaddress (0.8.3)
-    jbuilder (2.10.1)
-      activesupport (>= 5.0.0)
     json (2.3.1)
     listen (3.3.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -344,9 +342,6 @@ GEM
     thor (1.0.1)
     thread_safe (0.3.6)
     tilt (2.0.10)
-    turbolinks (5.2.1)
-      turbolinks-source (~> 5.2)
-    turbolinks-source (5.2.0)
     tzinfo (1.2.8)
       thread_safe (~> 0.1)
     unf (0.1.4)
@@ -388,7 +383,6 @@ DEPENDENCIES
   devise
   figaro
   fog
-  jbuilder (~> 2.7)
   listen (~> 3.2)
   mini_magick
   pg (~> 1.2.3)
@@ -398,7 +392,6 @@ DEPENDENCIES
   selenium-webdriver
   spring
   spring-watcher-listen (~> 2.0.0)
-  turbolinks (~> 5)
   tzinfo-data
   web-console (>= 3.3.0)
   webdrivers
