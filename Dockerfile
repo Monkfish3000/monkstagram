@@ -20,6 +20,6 @@ RUN apt install yarn -y
 
 # Install yarn dependencies
 RUN yarn install --check-files
-
+    
 # Run application
 CMD [ "bundle","exec", "rails", "s", "-b", "localhost", "-p", "3000"  ]
