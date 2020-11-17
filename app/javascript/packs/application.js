@@ -4,12 +4,13 @@
 // // that code so it'll be compiled.
 
 
-require("jquery.min")
-require("@rails/ujs").start()
-require("turbolinks").start()
-require("@rails/activestorage").start()
-require("channels")
-require("bootstrap.min")
+// require("jquery.min")
+// require("@rails/ujs").start()
+// require("turbolinks").start()
+// require("@rails/activestorage").start()
+// require("channels")
+// require("fontawesome.min")
+// require("bootstrap.min")
 
 
 
